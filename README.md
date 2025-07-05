@@ -11,9 +11,8 @@ O principal objetivo deste projeto é gerenciar o fluxo de tráfego em um cruzam
 ## ✨ Funcionalidades Principais
 
 * **Controle de Duas Vias:** Gerencia dois semáforos independentes (Via A e Via B).
-* **Máquina de Estados Finitos (FSM):** O controle é baseado em uma FSM que define os estados do semáforo (Verde, Amarelo, Vermelho).
 * **Sincronização Segura:** Garante que nunca haverá um sinal verde para ambas as vias simultaneamente.
-* **Temporização Ajustável:** Os tempos para cada estado (verde e amarelo) são definidos através de contadores, permitindo simular diferentes fluxos de tráfego. A transição entre os estados considera um tempo de segurança.
+* **Temporização Ajustável:** Os tempos para cada estado são definidos através de um contador, permitindo simular diferentes fluxos de tráfego. A transição entre os estados considera um tempo de segurança.
 
 ---
 
@@ -31,5 +30,5 @@ Este projeto foi desenvolvido por:
 
 * Cauã Medeiros Pereira - GitHub: CauaMedeiros
 * Iwri Simplício Felipe - GitHub: iwri
-* Israel
+* Israel Soares de Castro Filho - Github: Zenimaru1012
 * Julio dos Anjos Lucas Moura - Github: 11ju11
